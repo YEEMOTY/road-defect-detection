@@ -60,8 +60,8 @@ road_detection_deploy/
 - Windows / Linux 均可运行，Linux 下中文标签字体会自动回落到系统字体
 
 ```bash
-git clone https://github.com/YEEMOTY/yolo.git
-cd yolo
+git clone https://github.com/YEEMOTY/road-defect-detection.git
+cd road-defect-detection
 
 python -m venv .venv
 # Windows
