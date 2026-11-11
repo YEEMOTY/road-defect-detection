@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# 运行产物（上传图片与标注结果不入库）
+static/upload/*
+static/output/*
+
+# 日志与临时文件
+*.log
+.DS_Store
+Thumbs.db
